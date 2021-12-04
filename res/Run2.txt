@@ -1,0 +1,317 @@
+
+       Lucas the Rude
+       Strength : 13
+   Constitution : 15
+      Dexterity : 14
+       Charisma : 14
+         Health : 56
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                 Silver Helmet       Headgear              0              1              0              0 
+                   Copper Belt           Belt              7              1              0              0 
+                     Gold Belt           Belt              0              0              3              3 
+                     Holy Belt           Belt              0              0              3              2 
+                 Titanite Belt           Belt              0              0              2              1 
+                 Titanite Belt           Belt              0              0              2              1 
+              Unbreakable Belt           Belt              9              2              0              0 
+                    Dark Boots       Footwear              0              0              1              0 
+           Diamond Rank Potion         Potion              5              1              1              0 
+              Holy Rank Potion         Potion              4              0              2              3 
+              Iron Rank Potion         Potion              1              3              1              0 
+           Diamond Rank Potion         Potion              2              1              1              3 
+
+       Lucas the Rude
+       Strength : 41
+   Constitution : 24
+      Dexterity : 30
+       Charisma : 30
+         Health : 125
+
+    Benjamin the Rebellious
+       Strength : 13
+   Constitution : 16
+      Dexterity : 15
+       Charisma : 13
+         Health : 57
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                  Glass Helmet       Headgear              0              2              0              0 
+                   Bronze Belt           Belt              0              0              2              1 
+                   Copper Belt           Belt             -4              0              0             -3 
+                    Glass Belt           Belt              7              3              0              0 
+                     Gold Belt           Belt              0              0              3              3 
+                    Steel Belt           Belt              8              2              0              0 
+                 Titanite Belt           Belt              9              2              0              0 
+                 Titanite Belt           Belt             -4              0              0             -1 
+                    Iron Boots       Footwear              0              0              1              0 
+              Dark Rank Potion         Potion              4              3              0              2 
+             Glass Rank Potion         Potion              3              3              3              0 
+              Iron Rank Potion         Potion             10              1              1              0 
+              Iron Rank Potion         Potion              6              3              0              0 
+            Bronze Rank Potion         Potion              8              2              0              1 
+             Glass Rank Potion         Potion              3              0              0              1 
+
+    Benjamin the Rebellious
+       Strength : 63
+   Constitution : 37
+      Dexterity : 25
+       Charisma : 23
+         Health : 148
+Turn 1: 
+ Lucas the Rude Health: 125 
+ Benjamin the Rebellious Health: 148 
+
+Flail inflicted 14 damage on Benjamin the Rebellious!
+
+Turn 2: 
+ Lucas the Rude Health: 125 
+ Benjamin the Rebellious Health: 134 
+
+TwoHanded inflicted 48 damage on Lucas the Rude!
+
+Turn 3: 
+ Lucas the Rude Health: 77 
+ Benjamin the Rebellious Health: 134 
+
+Flail inflicted 15 damage on Benjamin the Rebellious!
+
+Turn 4: 
+ Lucas the Rude Health: 77 
+ Benjamin the Rebellious Health: 119 
+
+TwoHanded inflicted 47 damage on Lucas the Rude!
+
+Turn 5: 
+ Lucas the Rude Health: 30 
+ Benjamin the Rebellious Health: 119 
+
+Flail inflicted 13 damage on Benjamin the Rebellious!
+
+Turn 6: 
+ Lucas the Rude Health: 30 
+ Benjamin the Rebellious Health: 106 
+
+TwoHanded inflicted 50 damage on Lucas the Rude!
+
+
+ You Lost.
+Do you want to have a rematch? (Y,N)
+y
+
+       Lucas the Rude
+       Strength : 13
+   Constitution : 15
+      Dexterity : 14
+       Charisma : 14
+         Health : 56
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                 Bronze Helmet       Headgear              0              2              0              0 
+                  Diamond Belt           Belt              7              0              0              2 
+                     Iron Belt           Belt              6              1              0              0 
+              Unbreakable Belt           Belt              8              0              0              2 
+                    Dark Boots       Footwear              0              0              1              0 
+            Bronze Rank Potion         Potion              2              1              0              1 
+          Titanite Rank Potion         Potion              7              2              1              2 
+       Unbreakable Rank Potion         Potion              0              0              0              2 
+          Titanite Rank Potion         Potion              5              3              1              0 
+           Diamond Rank Potion         Potion              8              2              1              3 
+            Silver Rank Potion         Potion              1              3              2              2 
+              Dark Rank Potion         Potion              0              2              0              0 
+              Gold Rank Potion         Potion              8              1              0              0 
+
+       Lucas the Rude
+       Strength : 65
+   Constitution : 32
+      Dexterity : 20
+       Charisma : 20
+         Health : 137
+
+    Benjamin the Rebellious
+       Strength : 13
+   Constitution : 16
+      Dexterity : 15
+       Charisma : 13
+         Health : 57
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+             Adamantite Helmet       Headgear              0              1              0              0 
+                   Bronze Belt           Belt              8              1              0              0 
+                   Silver Belt           Belt             10              0              0              3 
+                    Steel Belt           Belt              0              0              2              3 
+                 Titanite Belt           Belt             -1              0              0             -3 
+                 Diamond Boots       Footwear              0              0              1              0 
+              Iron Rank Potion         Potion              5              1              3              1 
+              Gold Rank Potion         Potion              9              3              0              0 
+            Bronze Rank Potion         Potion              4              0              3              3 
+            Bronze Rank Potion         Potion              3              3              2              2 
+              Holy Rank Potion         Potion              4              3              2              0 
+              Holy Rank Potion         Potion              9              0              0              0 
+             Glass Rank Potion         Potion              2              3              1              1 
+
+    Benjamin the Rebellious
+       Strength : 66
+   Constitution : 31
+      Dexterity : 29
+       Charisma : 27
+         Health : 153
+Turn 1: 
+ Lucas the Rude Health: 137 
+ Benjamin the Rebellious Health: 153 
+
+Katana inflicted 45 damage on Lucas the Rude!
+
+Turn 2: 
+ Lucas the Rude Health: 92 
+ Benjamin the Rebellious Health: 153 
+
+Axe inflicted 43 damage on Benjamin the Rebellious!
+
+Turn 3: 
+ Lucas the Rude Health: 92 
+ Benjamin the Rebellious Health: 110 
+
+Katana inflicted 44 damage on Lucas the Rude!
+
+Turn 4: 
+ Lucas the Rude Health: 48 
+ Benjamin the Rebellious Health: 110 
+
+Axe inflicted 41 damage on Benjamin the Rebellious!
+
+Turn 5: 
+ Lucas the Rude Health: 48 
+ Benjamin the Rebellious Health: 69 
+
+Katana inflicted 45 damage on Lucas the Rude!
+
+Turn 6: 
+ Lucas the Rude Health: 3 
+ Benjamin the Rebellious Health: 69 
+
+Axe inflicted 43 damage on Benjamin the Rebellious!
+
+Turn 7: 
+ Lucas the Rude Health: 3 
+ Benjamin the Rebellious Health: 26 
+
+Katana inflicted 44 damage on Lucas the Rude!
+
+
+ You Lost.
+Do you want to have a rematch? (Y,N)
+y
+
+       Lucas the Rude
+       Strength : 13
+   Constitution : 15
+      Dexterity : 14
+       Charisma : 14
+         Health : 56
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                  Glass Helmet       Headgear              0             -3              0              0 
+               Adamantite Belt           Belt              0              0              1              2 
+                   Copper Belt           Belt              0              0              2              2 
+                    Glass Belt           Belt             10              0              0              2 
+                    Steel Belt           Belt              0              1              1              0 
+              Unbreakable Belt           Belt              3              0              0              3 
+                  Silver Boots       Footwear              0              0              1              0 
+             Steel Rank Potion         Potion              5              3              1              0 
+          Titanite Rank Potion         Potion              3              1              0              0 
+          Titanite Rank Potion         Potion              9              0              3              0 
+       Unbreakable Rank Potion         Potion              1              1              0              2 
+              Dark Rank Potion         Potion              4              1              1              3 
+             Glass Rank Potion         Potion              9              2              0              2 
+
+       Lucas the Rude
+       Strength : 57
+   Constitution : 21
+      Dexterity : 24
+       Charisma : 24
+         Health : 126
+
+    Benjamin the Rebellious
+       Strength : 13
+   Constitution : 16
+      Dexterity : 15
+       Charisma : 13
+         Health : 57
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+            Unbreakable Helmet       Headgear              0              3              0              0 
+                   Bronze Belt           Belt              5              0              0              3 
+                    Glass Belt           Belt              0              0              3              2 
+                     Holy Belt           Belt              0              0              2              2 
+              Orichalchum Belt           Belt              0              3              3              0 
+              Orichalchum Belt           Belt              0              0             -3             -3 
+                    Dark Boots       Footwear              0              0              1              0 
+            Bronze Rank Potion         Potion              1              2              1              0 
+       Unbreakable Rank Potion         Potion              8              1              1              3 
+            Copper Rank Potion         Potion              4              3              0              0 
+       Unbreakable Rank Potion         Potion              6              3              3              2 
+            Silver Rank Potion         Potion              3              2              3              0 
+            Silver Rank Potion         Potion              1              0              3              0 
+            Copper Rank Potion         Potion              4              3              3              2 
+
+    Benjamin the Rebellious
+       Strength : 45
+   Constitution : 36
+      Dexterity : 35
+       Charisma : 33
+         Health : 149
+Turn 1: 
+ Lucas the Rude Health: 126 
+ Benjamin the Rebellious Health: 149 
+
+Axe inflicted 30 damage on Lucas the Rude!
+
+Turn 2: 
+ Lucas the Rude Health: 96 
+ Benjamin the Rebellious Health: 149 
+
+Flail inflicted 30 damage on Benjamin the Rebellious!
+
+Turn 3: 
+ Lucas the Rude Health: 96 
+ Benjamin the Rebellious Health: 119 
+
+Axe inflicted 32 damage on Lucas the Rude!
+
+Turn 4: 
+ Lucas the Rude Health: 64 
+ Benjamin the Rebellious Health: 119 
+
+Flail inflicted 33 damage on Benjamin the Rebellious!
+
+Turn 5: 
+ Lucas the Rude Health: 64 
+ Benjamin the Rebellious Health: 86 
+
+Axe inflicted 32 damage on Lucas the Rude!
+
+Turn 6: 
+ Lucas the Rude Health: 32 
+ Benjamin the Rebellious Health: 86 
+
+Flail inflicted 29 damage on Benjamin the Rebellious!
+
+Turn 7: 
+ Lucas the Rude Health: 32 
+ Benjamin the Rebellious Health: 57 
+
+Axe inflicted 32 damage on Lucas the Rude!
+
+
+ You Lost.
+Do you want to have a rematch? (Y,N)
+n
+Thanks for playing!
+
+

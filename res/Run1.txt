@@ -1,0 +1,98 @@
+
+    Benjamin the Kind
+       Strength : 16
+   Constitution : 11
+      Dexterity : 13
+       Charisma : 15
+         Health : 55
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                  Steel Helmet       Headgear              0              3              0              0 
+                   Bronze Belt           Belt              8              1              0              0 
+                     Dark Belt           Belt              1              0              0              3 
+                    Glass Belt           Belt              0              1              1              0 
+                     Holy Belt           Belt              1              0              0              3 
+                     Iron Belt           Belt              6              0              0              1 
+             Unbreakable Boots       Footwear              0              0              2              0 
+            Silver Rank Potion         Potion             10              1              1              0 
+          Titanite Rank Potion         Potion              8              1              3              0 
+       Orichalchum Rank Potion         Potion              6              2              1              0 
+              Iron Rank Potion         Potion              5              3              1              0 
+        Adamantite Rank Potion         Potion              0              3              1              2 
+              Holy Rank Potion         Potion              2              2              0              3 
+              Gold Rank Potion         Potion              3              0              1              1 
+              Holy Rank Potion         Potion              6              3              1              0 
+
+    Benjamin the Kind
+       Strength : 72
+   Constitution : 31
+      Dexterity : 25
+       Charisma : 27
+         Health : 155
+
+      Harper the Evil
+       Strength : 16
+   Constitution : 16
+      Dexterity : 18
+       Charisma : 15
+         Health : 65
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+               Titanite Helmet       Headgear              0             -3              0              0 
+               Adamantite Belt           Belt             10              0              0              3 
+                   Bronze Belt           Belt             10              2              0              0 
+                     Iron Belt           Belt              0              0              1              2 
+                   Silver Belt           Belt              0              0              2              2 
+                   Glass Boots       Footwear              0              0              3              0 
+             Glass Rank Potion         Potion              8              1              3              1 
+              Dark Rank Potion         Potion              3              3              2              1 
+           Diamond Rank Potion         Potion              7              3              0              1 
+             Glass Rank Potion         Potion             10              1              3              1 
+              Holy Rank Potion         Potion              0              2              3              2 
+              Gold Rank Potion         Potion              9              1              2              1 
+             Glass Rank Potion         Potion              2              0              0              3 
+
+      Harper the Evil
+       Strength : 75
+   Constitution : 26
+      Dexterity : 37
+       Charisma : 34
+         Health : 172
+Turn 1: 
+ Benjamin the Kind Health: 155 
+ Harper the Evil Health: 172 
+
+TwoHanded inflicted 53 damage on Benjamin the Kind!
+
+Turn 2: 
+ Benjamin the Kind Health: 102 
+ Harper the Evil Health: 172 
+
+Katana inflicted 55 damage on Harper the Evil!
+
+Turn 3: 
+ Benjamin the Kind Health: 102 
+ Harper the Evil Health: 117 
+
+TwoHanded inflicted 54 damage on Benjamin the Kind!
+
+Turn 4: 
+ Benjamin the Kind Health: 48 
+ Harper the Evil Health: 117 
+
+Katana inflicted 56 damage on Harper the Evil!
+
+Turn 5: 
+ Benjamin the Kind Health: 48 
+ Harper the Evil Health: 61 
+
+TwoHanded inflicted 56 damage on Benjamin the Kind!
+
+
+ You Lost.
+Do you want to have a rematch? (Y,N)
+n
+
+Thanks for Playing!

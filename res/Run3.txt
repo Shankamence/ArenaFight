@@ -1,0 +1,164 @@
+    Ethan the Arrogant
+       Strength : 13
+   Constitution : 12
+      Dexterity : 12
+       Charisma : 17
+         Health : 54
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                     No Helmet       Headgear              0              0              0              0 
+                   Bare Footed       Footwear              0              0              0              0 
+
+       Ethan the Arrogant
+       Strength : 13
+   Constitution : 12
+      Dexterity : 12
+       Charisma : 17
+         Health : 54
+
+      Evelyn the Rude
+       Strength : 17
+   Constitution : 12
+      Dexterity : 11
+       Charisma : 18
+         Health : 58
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                     No Helmet       Headgear              0              0              0              0 
+                   Bare Footed       Footwear              0              0              0              0 
+
+      Evelyn the Rude
+       Strength : 17
+   Constitution : 12
+      Dexterity : 11
+       Charisma : 18
+         Health : 58
+Turn 1: 
+ Ethan the Arrogant Health: 54 
+ Evelyn the Rude Health: 58 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 2: 
+ Ethan the Arrogant Health: 49 
+ Evelyn the Rude Health: 58 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 3: 
+ Ethan the Arrogant Health: 49 
+ Evelyn the Rude Health: 57 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 4: 
+ Ethan the Arrogant Health: 44 
+ Evelyn the Rude Health: 57 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 5: 
+ Ethan the Arrogant Health: 44 
+ Evelyn the Rude Health: 56 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 6: 
+ Ethan the Arrogant Health: 39 
+ Evelyn the Rude Health: 56 
+The attack was avoided as Striking Power (16) was less than avoidance (16)!
+Turn 7: 
+ Ethan the Arrogant Health: 39 
+ Evelyn the Rude Health: 56 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 8: 
+ Ethan the Arrogant Health: 34 
+ Evelyn the Rude Health: 56 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 9: 
+ Ethan the Arrogant Health: 34 
+ Evelyn the Rude Health: 55 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 10: 
+ Ethan the Arrogant Health: 29 
+ Evelyn the Rude Health: 55 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 11: 
+ Ethan the Arrogant Health: 29 
+ Evelyn the Rude Health: 54 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 12: 
+ Ethan the Arrogant Health: 24 
+ Evelyn the Rude Health: 54 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 13: 
+ Ethan the Arrogant Health: 24 
+ Evelyn the Rude Health: 53 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 14: 
+ Ethan the Arrogant Health: 19 
+ Evelyn the Rude Health: 53 
+The attack was avoided as Striking Power (15) was less than avoidance (15)!
+Turn 15: 
+ Ethan the Arrogant Health: 19 
+ Evelyn the Rude Health: 53 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 16: 
+ Ethan the Arrogant Health: 14 
+ Evelyn the Rude Health: 53 
+The attack was avoided as Striking Power (15) was less than avoidance (17)!
+Turn 17: 
+ Ethan the Arrogant Health: 14 
+ Evelyn the Rude Health: 53 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 18: 
+ Ethan the Arrogant Health: 9 
+ Evelyn the Rude Health: 53 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 19: 
+ Ethan the Arrogant Health: 9 
+ Evelyn the Rude Health: 52 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+Turn 20: 
+ Ethan the Arrogant Health: 4 
+ Evelyn the Rude Health: 52 
+
+BareHanded inflicted 1 damage on Evelyn the Rude!
+
+Turn 21: 
+ Ethan the Arrogant Health: 4 
+ Evelyn the Rude Health: 51 
+
+BareHanded inflicted 5 damage on Ethan the Arrogant!
+
+
+ You Lost.
+Do you want to have a rematch? (Y,N)
+n
+Thanks for playing!
+
+Process finished with exit code 0

@@ -1,0 +1,205 @@
+       James the Corrupted
+       Strength : 14
+   Constitution : 16
+      Dexterity : 13
+       Charisma : 16
+         Health : 59
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                   Holy Helmet       Headgear              0              2              0              0 
+                     Gold Belt           Belt             -4              0              0             -3 
+                    Steel Belt           Belt              4              0              0              3 
+                 Titanite Belt           Belt              0             -2             -1              0 
+                 Diamond Boots       Footwear              0              0              3              0 
+             Glass Rank Potion         Potion              7              3              0              0 
+        Adamantite Rank Potion         Potion             10              0              3              1 
+             Steel Rank Potion         Potion             10              2              1              2 
+        Adamantite Rank Potion         Potion              6              1              0              0 
+             Glass Rank Potion         Potion              8              2              1              1 
+             Steel Rank Potion         Potion              9              2              3              0 
+           Diamond Rank Potion         Potion              2              1              0              2 
+
+       James the Corrupted
+       Strength : 66
+   Constitution : 27
+      Dexterity : 23
+       Charisma : 26
+         Health : 142
+
+      Sophia the Strong
+       Strength : 13
+   Constitution : 13
+      Dexterity : 15
+       Charisma : 11
+         Health : 52
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+                     No Helmet       Headgear              0              0              0              0 
+                   Bronze Belt           Belt              0              0              3              2 
+                     Dark Belt           Belt              0              1              3              0 
+              Orichalchum Belt           Belt              5              0              0              3 
+                   Silver Belt           Belt              0              0              3              3 
+                 Titanite Belt           Belt              1              2              0              0 
+                 Titanite Belt           Belt              0              0              2              3 
+                   Bare Footed       Footwear              0              0              0              0 
+           Diamond Rank Potion         Potion              3              2              0              3 
+        Adamantite Rank Potion         Potion              7              3              3              0 
+       Unbreakable Rank Potion         Potion              4              2              0              1 
+          Titanite Rank Potion         Potion              0              0              1              0 
+              Holy Rank Potion         Potion              5              3              0              2 
+            Copper Rank Potion         Potion              5              1              0              0 
+             Glass Rank Potion         Potion              7              3              3              2 
+             Glass Rank Potion         Potion              4              0              2              1 
+             Glass Rank Potion         Potion              5              3              1              2 
+
+      Sophia the Strong
+       Strength : 59
+   Constitution : 33
+      Dexterity : 36
+       Charisma : 32
+         Health : 160
+Turn 1: 
+ James the Corrupted Health: 142 
+ Sophia the Strong Health: 160 
+
+Axe inflicted 41 damage on James the Corrupted!
+
+Turn 2: 
+ James the Corrupted Health: 101 
+ Sophia the Strong Health: 160 
+
+Katana inflicted 43 damage on Sophia the Strong!
+
+Turn 3: 
+ James the Corrupted Health: 101 
+ Sophia the Strong Health: 117 
+
+Axe inflicted 39 damage on James the Corrupted!
+
+Turn 4: 
+ James the Corrupted Health: 62 
+ Sophia the Strong Health: 117 
+
+Katana inflicted 43 damage on Sophia the Strong!
+
+Turn 5: 
+ James the Corrupted Health: 62 
+ Sophia the Strong Health: 74 
+
+Axe inflicted 42 damage on James the Corrupted!
+
+Turn 6: 
+ James the Corrupted Health: 20 
+ Sophia the Strong Health: 74 
+
+Katana inflicted 42 damage on Sophia the Strong!
+
+Turn 7: 
+ James the Corrupted Health: 20 
+ Sophia the Strong Health: 32 
+
+Axe inflicted 41 damage on James the Corrupted!
+
+
+ You Lost.
+Do you want to have a rematch? (Y,N)
+y
+
+       James the Corrupted
+       Strength : 14
+   Constitution : 16
+      Dexterity : 13
+       Charisma : 16
+         Health : 59
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+               Titanite Helmet       Headgear              0             -3              0              0 
+                    Glass Belt           Belt              0              3              1              0 
+                    Steel Belt           Belt             10              1              0              0 
+              Unbreakable Belt           Belt              6              1              0              0 
+              Adamantite Boots       Footwear              0              0              3              0 
+             Glass Rank Potion         Potion              8              2              0              1 
+       Unbreakable Rank Potion         Potion              9              0              2              3 
+              Dark Rank Potion         Potion              0              1              0              0 
+              Iron Rank Potion         Potion              0              0              3              2 
+              Dark Rank Potion         Potion              5              1              3              3 
+           Diamond Rank Potion         Potion              7              1              1              2 
+            Copper Rank Potion         Potion              4              0              3              3 
+       Orichalchum Rank Potion         Potion              4              3              3              2 
+            Copper Rank Potion         Potion              3              1              2              0 
+              Dark Rank Potion         Potion              8              3              3              3 
+
+       James the Corrupted
+       Strength : 78
+   Constitution : 30
+      Dexterity : 37
+       Charisma : 40
+         Health : 185
+
+      Sophia the Strong
+       Strength : 13
+   Constitution : 13
+      Dexterity : 15
+       Charisma : 11
+         Health : 52
+
+                      Gear Name      Gear Type      Strength+  Constitution+     Dexterity+      Charisma+
+
+               Titanite Helmet       Headgear              0              3              0              0 
+                  Diamond Belt           Belt              2              1              0              0 
+                     Gold Belt           Belt              0              3              2              0 
+              Unbreakable Belt           Belt              0              3              1              0 
+                 Diamond Boots       Footwear              0              0              3              0 
+            Bronze Rank Potion         Potion              9              0              0              0 
+          Titanite Rank Potion         Potion              6              2              2              3 
+            Bronze Rank Potion         Potion              8              2              0              2 
+              Iron Rank Potion         Potion             10              3              2              0 
+       Unbreakable Rank Potion         Potion              7              1              2              2 
+          Titanite Rank Potion         Potion              9              0              3              2 
+              Holy Rank Potion         Potion              1              0              0              3 
+
+      Sophia the Strong
+       Strength : 65
+   Constitution : 31
+      Dexterity : 30
+       Charisma : 26
+         Health : 152
+Turn 1: 
+ James the Corrupted Health: 185 
+ Sophia the Strong Health: 152 
+
+Katana inflicted 59 damage on Sophia the Strong!
+
+Turn 2: 
+ James the Corrupted Health: 185 
+ Sophia the Strong Health: 93 
+
+Katana inflicted 46 damage on James the Corrupted!
+
+Turn 3: 
+ James the Corrupted Health: 139 
+ Sophia the Strong Health: 93 
+
+Katana inflicted 59 damage on Sophia the Strong!
+
+Turn 4: 
+ James the Corrupted Health: 139 
+ Sophia the Strong Health: 34 
+
+Katana inflicted 46 damage on James the Corrupted!
+
+Turn 5: 
+ James the Corrupted Health: 93 
+ Sophia the Strong Health: 34 
+
+Katana inflicted 57 damage on Sophia the Strong!
+
+
+ You Won!
+Do you want to have a rematch? (Y,N)
+N
+
+Thanks for Playing!
